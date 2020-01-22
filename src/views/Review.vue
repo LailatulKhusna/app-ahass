@@ -26,9 +26,10 @@
           </v-card>
         </v-col>
         <v-col cols="12">
+            <v-text-field v-model="review.name" label="Nama Anda"></v-text-field>
             <VTextField
-              v-model="review.name"
-              placeholder="Kritik dan Saran"
+              v-model="review.description"
+              label="Saran"
             />
             <v-btn block color="error" @click="finish()" :loading="loading" :disabled="loading">Selesai</v-btn>
         </v-col>
