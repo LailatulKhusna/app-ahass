@@ -21,7 +21,7 @@
               <div class="title">Kritik dan Saran</div>
               <div
                 class="caption"
-              >Anda dapat menyampaikan kritik dan saran untuk bengkel AHASS HANDAYANI, dibawah ini:</div>
+              >Anda dapat menyampaikan kritik/saran untuk bengkel AHASS HANDAYANI, dibawah ini:</div>
             </v-card-text>
           </v-card>
         </v-col>
